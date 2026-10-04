@@ -1,0 +1,6 @@
+{
+  "name": "ProfileScout",
+  "description": "AI-powered LinkedIn profile analysis and grounded job match engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
